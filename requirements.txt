@@ -1,0 +1,5 @@
+# Database connection
+psycopg2-binary>=2.9.0
+
+# Environment variables
+python-dotenv>=1.0.0
