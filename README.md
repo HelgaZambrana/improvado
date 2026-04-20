@@ -7,7 +7,7 @@ Cross-channel marketing analytics: unifying Facebook, Google and TikTok advertis
 | Deliverable | Link |
 |-------------|------|
 | Live Dashboard | [Tableau Public](https://public.tableau.com/views/Improvado_17766528231820/ImprovadoDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
-| Video Walkthrough | [Loom](#) |
+| Video Walkthrough | [Loom](https://www.loom.com/share/6dd5b87f07f448e3bba6c3ddc2103f35) |
 
 ## Architecture
 Raw CSVs → Staging Tables → Unified Model → Tableau
